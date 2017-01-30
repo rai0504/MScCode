@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>noground.png</file>
+        <file>noimage.png</file>
+        <file>nosegmentation.png</file>
+        <file>ukznIcon.ico</file>
+    </qresource>
+</RCC>
