@@ -1,0 +1,99 @@
+188
+Final c0 = 0.00534382
+Final c1 = 0.435417
+
+195
+Final: c0 = 0.0310403
+Final: c1 = 0.102232
+
+228
+Final c0 = 0.00692244
+Final c1 = 0.261977
+
+1057
+Final c0 = 0.0535641
+Final c1 = 0.394893
+
+1265
+Final c0 = 0.0798842
+Final c1 = 0.435987
+
+10093
+Final: c0 = 0.00470557
+Final: c1 = 0.0877687
+
+10102
+Final: c0 = 0.0137441
+Final: c1 = 0.0906287
+
+10104
+Final: c0 = 0.0277677
+Final: c1 = 0.109658
+
+12294
+Final c0 = 0.0186732
+Final c1 = 0.130303
+
+12627
+Final: c0 = 0.00999756
+Final: c1 = 0.10674
+
+13432
+Final: c0 = 0.0427284
+Final: c1 = 0.149025
+
+13438
+Final c0 = 0.00745319
+Final c1 = 0.106038
+
+13899
+Final: c0 = 0.0189244
+Final: c1 = 0.135127
+
+13901
+Final c0 =  0.0211434
+Final c1 = 0.14948
+
+21749
+Final c0 = 0.00484547
+Final c1 = 0.0820094
+
+21759
+Final c0 = 
+Final c1 = 
+
+32140
+Final c0 = 
+Final c1 = 
+
+35278
+Final c0 = 
+Final c1 = 
+
+37338
+Final c0 = 
+Final c1 = 
+
+37339
+Final c0 = 
+Final c1 = 
+
+38974
+Final c0 = 
+Final c1 = 
+
+40217
+Final c0 = 
+Final c1 = 
+
+40968
+Final c0 = 
+Final c1 = 
+
+41066
+Final c0 = 
+Final c1 = 
+
+42451
+Final c0 = 
+Final c1 = 

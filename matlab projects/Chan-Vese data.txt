@@ -1,0 +1,5 @@
+Image 1
+SEED
+	OTSU		c0 = 
+	K-MEANS		c0 =
+	EM-GMM		c0 = 0.030648	c1 = 0.261392	s0 = 0.0382529	s1 = 0.081608

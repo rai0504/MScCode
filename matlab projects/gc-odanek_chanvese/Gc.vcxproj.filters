@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Format.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Log.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Time\StopWatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Algebra\Eigenvectors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Geometry\ConvexHull.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Geometry\Voronoi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\FordFulkerson.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\EdmondsKarp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\Dinitz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\BoykovKolmogorov.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\PushRelabel\Fifo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\PushRelabel\FifoGap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\PushRelabel\HighestLevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\Kohli.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\CommonBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\Kohli.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\ZengDanek.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\DanekLabels.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\PushRelabel\HighestLevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\PushRelabel\Fifo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\Potential\Metric\RiemannianDanek.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\Potential\Metric\RiemannianBoykov.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\Min\Grid\AlphaBetaSwap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\Min\Grid\AlphaExpansion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Data\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Segmentation\Tools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Segmentation\ChanVese.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Segmentation\RoussonDeriche.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Segmentation\MumfordShah.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Geometry\DistanceTransform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Geometry\SimplePoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Clustering\KMeans.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Core.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Exception.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\OutOfMemoryException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\ArgumentException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\IndexOutOfRangeException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\InvalidOperationException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\OverflowException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\NotImplementedException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Format.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Collection\Tuple.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Collection\Array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Collection\ArrayBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Collection\IArrayMask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Collection\BoolArrayMask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Collection\EmptyArrayMask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Time\StopWatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Algo\Basic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Algo\Function.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Algo\Predicate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Algo\Range.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Algo\Iterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\System\Algo\Sort\Heap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Basic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Constant.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\ConvergenceException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Algebra\Number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Algebra\Vector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Algebra\Hyperplane.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Algebra\Matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Algebra\SquareMatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Algebra\Eigenvectors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Geometry\ConvexHull.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Math\Geometry\Voronoi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\IMaxFlow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\IGridMaxFlow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\FordFulkerson.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\EdmondsKarp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\Dinitz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\BoykovKolmogorov.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\PushRelabel\Fifo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\PushRelabel\FifoGap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\PushRelabel\HighestLevel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\General\Kohli.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\CommonBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\Kohli.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\ZengDanek.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\DanekLabels.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\PushRelabel\HighestLevel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Flow\Grid\PushRelabel\Fifo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\Neighbourhood.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\IEnergy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\IGridEnergy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\Potential\Metric\RiemannianDanek.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\Potential\Metric\RiemannianBoykov.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\Min\Grid\AlphaBetaSwap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\Min\Grid\AlphaExpansion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Energy\Min\Grid\LabelingEnergy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Data\Image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Data\BitField.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Data\BorderIterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Segmentation\Tools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Segmentation\Mask.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Segmentation\ChanVese.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Segmentation\RoussonDeriche.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Segmentation\MumfordShah.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Geometry\DistanceTransform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Geometry\SimplePoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\Gc\Algo\Clustering\KMeans.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DELL\Downloads\matlab projects\gc-odanek_chanvese\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{28890A85-C307-3DE6-AB8C-54D81DFD64CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4D59E651-1C1D-3A8F-8731-A157108BB764}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
