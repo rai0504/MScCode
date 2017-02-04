@@ -1,0 +1,126 @@
+188
+
+Final: c0 = 1.49467
+Final: c1 = 111.392
+
+195
+
+Final: c0 = 14
+Final: c1 = 14.8473
+
+
+228
+
+Final: c0 = 1.50815
+Final: c1 = 62.3682
+
+1057
+
+Final: c0 = 13.9886
+Final: c1 = 105.59
+
+1265
+
+Final: c0 = 18.9876
+Final: c1 = 106.959
+
+10093
+
+Final: c0 = 5.98338
+Final: c1 = 13.739
+
+10102
+
+Final: c0 = 3.09661
+Final: c1 = 18.2272
+
+10104
+
+Final: c0 = 10.2293
+Final: c1 = 19.3825
+
+12294
+
+Final: c0 = 4.66647
+Final: c1 = 31.0565
+
+12627
+
+Final: c0 = 2.52761
+Final: c1 = 27.1306
+
+13432
+
+Final: c0 = 15.9338
+Final: c1 = 23.8821
+
+13438
+
+Final: c0 = 7.45668
+Final: c1 = 11.998
+
+13899
+
+Final: c0 = 9.4731
+Final: c1 = 15.5933
+
+13901
+
+Final: c0 = 0
+Final: c1 = 15.5495
+
+21749
+
+Final: c0 = 2
+Final: c1 = 3.25323
+
+21759
+
+Final: c0 = 11
+Final: c1 = 15.0269
+
+32140
+
+Final: c0 = 18
+Final: c1 = 20.0375
+
+35278
+
+Final: c0 = 0
+Final: c1 = 23.4969
+
+37338
+
+Final: c0 = 2
+Final: c1 = 6.92967
+
+37339
+
+Final: c0 = 2
+Final: c1 = 7.61681
+
+38974
+
+Final: c0 = 6.64216
+Final: c1 = 11.9487
+
+40217
+
+Final: c0 = 0
+Final: c1 = 38.5964
+
+40968
+
+Final: c0 = 6.61534
+Final: c1 = 66.8485
+
+41066
+
+Final: c0 = 12
+Final: c1 = 13.1013
+
+42451
+
+Final: c0 = 0
+Final: c1 = 21.7096
+

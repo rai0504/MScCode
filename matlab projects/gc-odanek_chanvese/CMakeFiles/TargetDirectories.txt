@@ -1,0 +1,4 @@
+C:/Users/DELL/Downloads/matlab projects/gc-odanek_chanvese/CMakeFiles/Gc.dir
+C:/Users/DELL/Downloads/matlab projects/gc-odanek_chanvese/CMakeFiles/INSTALL.dir
+C:/Users/DELL/Downloads/matlab projects/gc-odanek_chanvese/CMakeFiles/ALL_BUILD.dir
+C:/Users/DELL/Downloads/matlab projects/gc-odanek_chanvese/CMakeFiles/ZERO_CHECK.dir

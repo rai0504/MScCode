@@ -1,0 +1,174 @@
+188
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.00965055
+Final: c1 = 0.438076
+
+195
+lambda = 1
+epsilon = 1e-3
+mu = 5
+Final: c0 = 0.0334916
+Final: c1 = 0.0916896 
+
+228
+lambda = 1
+epsilon = 1e-3
+mu = 20
+final c0 = 0.0236755
+final c1 = 0.34949
+
+1057
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0568284
+Final: c1 = 0.423016 
+
+1265
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0873104
+Final: c1 = 0.449664
+
+10093
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.00719859
+Final: c1 = 0.0834308
+
+10102
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0134421
+Final: c1 = 0.0736891
+
+10104
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0291158
+Final: c1 = 0.106362
+
+12294
+lambda = 1
+epsilon = 1e-3
+mu = 5
+Final: c0 = 0.0193931
+Final: c1 = 0.137479
+
+12627
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0102802
+Final: c1 = 0.105734
+
+13432
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0460199
+Final: c1 = 0.140068
+
+13438
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0114301
+Final: c1 = 0.0999424
+
+13899
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.025201
+Final: c1 = 0.11743
+
+13901
+lambda = 1
+epsilon = 1e-3
+mu = 20
+final c0 = 0.0281957
+final c1 = 0.142012
+
+21749
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.00555324
+Final: c1 = 0.0494646
+
+21759
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0207416
+Final: c1 = 0.326168 
+
+32140
+lambda = 1
+epsilon = 1e-3
+mu = 20
+final c0 = 0.0354076
+final c1 = 0.191268
+
+35278
+lambda = 1
+epsilon = 1e-3
+mu = 5
+Final: c0 = 0.0223561
+Final: c1 = 0.164295
+
+37338
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0108073
+Final: c1 = 0.0471258 
+
+37339
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.00984762
+Final: c1 = 0.0482771
+
+38974
+lambda = 1
+epsilon = 1e-3
+mu = 5
+final c0 = 0.00919986
+final c1 = 0.305233
+
+40217
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0590028
+Final: c1 = 0.279173
+
+40968
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0282814
+Final: c1 = 0.271131
+
+41066
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0301915
+Final: c1 = 0.11334
+
+42451
+lambda = 1
+epsilon = 1e-3
+mu = 20
+Final: c0 = 0.0394936
+Final: c1 = 0.135349

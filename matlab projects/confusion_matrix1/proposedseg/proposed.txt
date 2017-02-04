@@ -1,0 +1,229 @@
+188
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.00775289
+Final: c1 = 0.811785
+
+195
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0648266
+Final: c1 = 0.313612
+
+228
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0253593
+Final: c1 = 0.805563
+
+1057
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0360667
+Final: c1 = 0.601765
+
+1265
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0747794
+Final: c1 = 0.681293 
+
+10093
+double kappa1 = 0.17, kappa2 = 0.65;
+    double R1 = 12, R2 = 225;
+    double N = 12;
+    double p2x = N, p2y = N;
+    Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0154249
+Final: c1 = 0.41363
+
+10102
+double kappa1 = 0.17, kappa2 = 0.65;
+    double R1 = 12, R2 = 225;
+    double N = 12;
+    double p2x = N, p2y = N;
+    Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0362539
+Final: c1 = 0.312947
+
+10104
+double kappa1 = 0.17, kappa2 = 0.65;
+    double R1 = 12, R2 = 225;
+    double N = 12;
+    double p2x = N, p2y = N;
+    Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0993981
+Final: c1 = 0.406918
+
+12294
+double kappa1 = 0.17, kappa2 = 0.65;
+    double R1 = 12, R2 = 225;
+    double N = 12;
+    double p2x = N, p2y = N;
+    Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0108098
+Final: c1 = 0.440847
+
+12627
+double kappa1 = 0.17, kappa2 = 0.65;
+    double R1 = 12, R2 = 225;
+    double N = 12;
+    double p2x = N, p2y = N;
+    Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0238294
+Final: c1 = 0.500779
+
+13432
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.118264
+Final: c1 = 0.688695
+
+13438
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0305703
+Final: c1 = 0.653673
+
+13899
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0608615
+Final: c1 = 0.611062
+
+13901
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0376637
+Final: c1 = 0.360751
+
+21749
+double kappa1 = 0.17, kappa2 = 0.65;
+    double R1 = 12, R2 = 225;
+    double N = 12;
+    double p2x = N, p2y = N;
+    Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.00356512
+Final: c1 = 0.28121
+
+21759
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0132751
+Final: c1 = 0.456742
+
+32140
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0654941
+Final: c1 = 0.70289 
+
+35278
+double kappa1 = 0.17, kappa2 = 0.65;
+    double R1 = 12, R2 = 225;
+    double N = 12;
+    double p2x = N, p2y = N;
+    Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0427692
+Final: c1 = 0.359282
+
+37338
+double kappa1 = 0.17, kappa2 = 0.65;
+    double R1 = 12, R2 = 225;
+    double N = 12;
+    double p2x = N, p2y = N;
+    Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0204111
+Final: c1 = 0.18144
+
+37339
+double kappa1 = 0.17, kappa2 = 0.65;
+    double R1 = 12, R2 = 225;
+    double N = 12;
+    double p2x = N, p2y = N;
+    Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0195716
+Final: c1 = 0.216526
+
+38974
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.00447343
+Final: c1 = 0.643817
+
+40217
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0904311
+Final: c1 = 0.738794
+
+40968
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0197894
+Final: c1 = 0.657471
+
+41066
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.0716709
+Final: c1 = 0.506416
+
+42451
+double kappa1 = 0.17, kappa2 = 0.55;
+double R1 = 50, R2 = 225;
+double N = 50;
+double p2x = N, p2y = N;
+Point bp0(0,0),  bp2(p2x,p2y),  bp4(255,255);
+Final: c0 = 0.069853
+Final: c1 = 0.690477
+
+
+
+
+
